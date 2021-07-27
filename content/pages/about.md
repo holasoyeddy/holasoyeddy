@@ -3,6 +3,7 @@ title: "About me"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
+My name is Eddy Rubio and I am your host. I am a software engineer based out of Mexico City
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 

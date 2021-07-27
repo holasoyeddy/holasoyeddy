@@ -14,7 +14,7 @@ type Props = {
 
 const Author = ({ author, isIndex }: Props) => (
   <div className={styles['author']}>
-    <Link to="/">
+    <Link to="/" className={styles['author__wrapper']}>
       <img
         src={withPrefix(author.photo)}
         className={styles['author__photo']}
