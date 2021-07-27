@@ -19,7 +19,7 @@ module.exports = {
   author: {
     name: 'Eddy Rubio',
     photo: '/photo.jpg',
-    bio: 'I am a passionate software engineer with a lot of opinions. Based out of Mexico City, MX.',
+    bio: 'I am a passionate software engineer with a lot of opinions.',
     contacts: {
       twitter: 'holasoyeddy',
       github: 'holasoyeddy',
