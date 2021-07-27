@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://holasoyeddy.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'A Blog by Eddy Rubio',
+  subtitle: 'I am a passionate software engineer with a lot of opinions. \n\n Currently building cool stuff for Intrado out of Mexico City, MX.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  googleAnalyticsId: 'UA-179563184-1',
   useKatex: false,
   menu: [
     {
@@ -25,26 +25,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Eddy Rubio',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a passionate software engineer from Mexico City with a lot of opinions. ',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
+      twitter: 'holasoyeddy',
+      github: 'holasoyeddy',
+      linkedin: 'holasoyeddy',
+      instagram: 'holasoyeddy'
     }
   }
 };
