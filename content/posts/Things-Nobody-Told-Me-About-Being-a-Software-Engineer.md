@@ -1,25 +1,28 @@
 ---
 title: Things Nobody Told Me About Being a Software Engineer
-date: "2021-07-09T01:05:33.031Z"
+date: "2021-07-26T01:05:33.031Z"
 template: "post"
 draft: false
 slug: "things-nobody-told-me-about-being-a-software-engineer"
 category: "Software Engineering"
 tags:
     - 'Software Engineering'
-
 description: "I remember my first year as a software engineer back in 2016. I was working for a digital marketing agency and thought I was ready to take on the world. I had just graduated, I had several freelance projects on my portfolio and had a decent GPA. I was pretty sure I knew everything I needed to be a decent software engineer. Boy, was I wrong."
 socialImage: "/media/image-2.jpg"
 ---
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+![By Charles Deluvio on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/1.jpg)
 # Introduction
 
-I remember my first year as a software engineer back in 2016. I was working for a digital marketing agency and thought I was ready to take on the world. I had just graduated, I had several freelance projects on my portfolio and had a decent GPA. I was pretty sure I knew everything I needed to be a decent software engineer. Boy, was I wrong.
+I remember my first year as a software engineer back in 2016. I was working for a digital marketing agency and thought I was ready to take on the world. I had just graduated, I had several freelance projects in my portfolio and had a decent GPA. I was pretty sure I knew everything I needed to be a decent software engineer. Boy, was I wrong.
 
-**The purpose of this article is not to scare you, but rather let you know about certain things nobody tells you during your first year as a software engineer.** Whether you're a fresh-faced intern or a seasoned veteran in Software Engineering, I hope you can find some value in this article.
+As you'll soon come to find out, not everything is writing code and drinking coffee. **The purpose of this article is not to scare you, but rather let you know about certain things nobody tells you during your first year as a software engineer.**
+
+ Whether you're a fresh-faced intern or a seasoned veteran in Software Engineering, I hope you can find some value in this article.
 
 # Nobody Cares About Your Grades
+
+![By Element5 Digital on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/2.jpg)
 
 So, you turned in every assignment, you ace'd every test and you were the the teacher's pet in every class at college. Guess what? **Nobody cares.**
 
@@ -32,6 +35,8 @@ It's more important that you actually understand how to use Data Structures and 
 If I knew this before I graduated, it would have saved me ***A LOT*** of stress.
 
 # You Will Get Rejected
+
+![By Steve Johnson on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/3.jpg)
 
 So, you just graduated and you're sending your resume to every big tech company you can find. You already have a few interviews lined up with Google and Facebook, or whatever tech company is trending at the time that you read this article. You've studied up on Data Structures and Algorithms and are totally ready to wow the engineer during the technical interview.
 
@@ -46,6 +51,8 @@ This isn't meant to discourage and you should continue applying for the jobs you
 ***Introspection is the catalist of improvement. Not only in software engineering, but in life.***
 
 # You Will Make Mistakes
+
+![By Brett Jordan on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/4.jpg)
 
 Senior devs, junior devs, frontend devs, backend devs. We all have one thing in common. **We're human and humans make mistakes.**
 
@@ -63,6 +70,8 @@ In my case, I learned the importance of writing unit tests for my code.
 
 # Burnout Is a Real Thing
 
+![By Gift Habeshaw on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/5.jpg)
+
 Burnout is a funny thing. **You never realize you're burning out until you hit rock-bottom.** This is caused by excessive and prolonged stress. Overworking, not taking breaks or spending every minute of every hour looking up the latest framework that is popular that week and trying to master it out of fear of being irrelevant in this industry.
 
 Next thing you know you're sleeping 2 hours a day and working weekends. You start waking up irritable, work meetings become arguments and 
@@ -76,6 +85,8 @@ You should take breaks from coding every now and then. Explore other interests c
 
 # You Weren't Hired to Write Code. You Were Hired to Solve Problems. 
 
+![By Olav Ahrens Røtne on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/6.jpg)
+
 I used to hate the "business" side of things at work. **Working out time frames for releases, explaining to product designers that the new feature that they're requesting is not possible or simply having to update managers with daily e-mails in regards to progress.**
 
 Well, for better or for worse, **this is all part of the job description.** You're not just some code monkey that translates instructions into code. **You're an engineer that has to build solutions that solve problems.** And building these solutions requires more work than just sitting in front of a text editor for 8 hours (although, you'll probably do just that on some days).
@@ -83,6 +94,8 @@ Well, for better or for worse, **this is all part of the job description.** You'
 As a software engineer, your job is not to write code in a specific language. **Your job is to fix the problem with the tools you have at your disposal.** Your client most likely does not care if you used Flask instead of Django, if you're using the latest version of Angular to write your code or if you used spaces instead of tabs. **They just care that the task gets done.**
 
 # Don't Specialize (Yet)
+
+![By Carl Heyerdahl on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/7.jpg)
 
 I remember when I was looking at job postings. Do I wanna be Java Developer or a .NET Developer? Should I do front-end development or back-end development? I was hired as a ".NET Developer" for my first software engineering job. I would get angry when my job required working with Javascript, managing databases or helping out another team that has an entirely different tech stack. 
 
@@ -96,13 +109,19 @@ Have you ever met a plumber that ONLY works with a hammer? Didn't think so. The 
  
 **Do not limit your toolbox.**
 
-# Sometimes, 'Good Enough' is Better Than 'Perfect'
+# Sometimes, "Good Enough" is Better Than "Perfect"
+
+![By Amélie Mourichon on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/8.jpg)
 
 If you're passionate about writing code, you're probably a lot like me. You weigh every little detail and want to make sure everything runs as fast and smooth as it possibly can. Often, this means falling deep into the rabbit hole of investigating different technologies, investigating best practices and comparing all possible approaches against each other.
 
-While this is often a good way to go about your craft, real life projects have deadlines. And, sometimes, the best way to get some momentum going during development is by acheiving an MVP, or a Minimum Viable Product. You should attempt to build an MVP to get the ball rolling and come back in further iterations to add more functionality and optimize performance. Perfection is the enemy of progress.
+While this is often a good way to go about your craft, **real life projects have deadlines and, sometimes, the best way to get some momentum going during development is by acheiving an MVP, or a Minimum Viable Product.** You should attempt to build an MVP to get the ball rolling and come back in further iterations to add more functionality and optimize performance. 
+
+**As Winston Churchill once said, perfection is the enemy of progress.**
 
 # You Will Never Know Everything
+
+![By Sigmund on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/9.jpg)
 
 You probably don't know as much as you think you do...**and that's OK**. 
 
@@ -110,9 +129,11 @@ You probably don't know as much as you think you do...**and that's OK**.
 
 Not only that, but the one's you do know are constantly changing. The techniques we use today may be obsolete before lunch tomorrow. That's why software products are usually built by teams, not individuals. **The knowledge requirements for a product are usually covered by multiple engineers, each one with bits of knowledge that they can contribute to collaborate and teach the other engineers on their team.**
 
-**Always keep an open and receptive mind when somebody else tries to teach you something, even if the other person is less experienced.** You'd be surprised at some key details or techniques that you might pick up. **I was oblivious to the fact that we could use the Alt+Shift+Tab shortcut to shift back to a previous tab until a Jr. Developer pointed it out to me.**
+**Always keep an open and receptive mind when somebody else tries to teach you something, even if the other person is less experienced.** You'd be surprised at some key details or techniques that you might pick up. I was oblivious to the fact that we could use the ```Alt+Shift+Tab``` shortcut to shift back to a previous tab until a Jr. Developer pointed it out to me.
 
 # Communication Is Important
+
+![By Kaleidico on Unsplash](/media/things-nobody-told-me-about-being-a-software-engineer/10.jpg)
 
 In my experience, software engineering attracts a lot of quiet and/or introverted people. I think it has something to do with the fact that you can just zone out with a text editor and a terminal and come back 6 hours later with a finished product (albeit, not a great one), no human interaction required.
 
@@ -121,3 +142,7 @@ However, **teamwork is more often than not the main difference between a nice, p
 This is why communication skills are almost as important as technical skills when it comes to being a software engineer. **You should be able to communicate abstract ideas and concepts to both low-level engineers and high-level, "non-techie", business associates.**
 
 **If you can't explain a concept in a way that even a layman can understand it, then you don't understand that concept well enough.**
+
+# Conclusion
+
+These are some of the things that I believe would have been helpful to find out earlier in my career rather than later. While these things may seem more obvious to experienced engineers, they don't seem too obvious when you're first starting out. I hope this information provides some insight and is helpful to your software development journey.
